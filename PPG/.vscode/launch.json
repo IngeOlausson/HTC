@@ -8,7 +8,8 @@
             "server": "http://se0vis075.htc-sweden.com",
             "serverInstance": "DynamicsNAV110",
             "authentication": "Windows",
-            "startupObjectId": 22
+            "port": 7049,
+            "schemaUpdateMode": "Recreate"
 
         }
     ]
