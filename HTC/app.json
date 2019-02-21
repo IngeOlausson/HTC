@@ -1,9 +1,9 @@
 {
-  "id": "64d4c369-299f-4762-a6af-e132f6346ef1",
-  "name": "PPG",
-  "publisher": "IOL",
-  "brief": "PPG",
-  "description": "PPG",
+  "id": "afb6220d-2ff8-4b4a-be2b-29673f9b5eb4",
+  "name": "HTC",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
   "version": "1.0.0.0",
   "compatibilityId": "1.0.0.0",
   "privacyStatement": "",
@@ -16,11 +16,8 @@
   "screenshots": [],
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
-  "features": "TranslationFile",
-  "showMyCode": true,
-  "target": "Internal",
   "idRange": {
-    "from": 50000,
-    "to": 50299
+    "from": 50100,
+    "to": 50149
   }
 }

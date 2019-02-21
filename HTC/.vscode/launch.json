@@ -4,14 +4,11 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "Dev server",
-            "server": "http://se0vis075.htc-sweden.com",
+            "name": "TestServer",
+            "server": "http://se0vis075.global.hvwan.net",
             "serverInstance": "DynamicsNAV110",
             "authentication": "Windows",
-            "port": 7049,
-            //"schemaUpdateMode": "Recreate"
-            "schemaUpdateMode": "Synchronize"
-
+            "startupObjectId": 22
         }
     ]
 }
